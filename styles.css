@@ -1,0 +1,32 @@
+body {
+  font-family: Georgia, serif;
+  background-color: AntiqueWhite ;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: MediumAquaMarine;
+  text-align: center;
+}
+
+table {
+  border: 2px solid Black;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: plum;
+}
+
+td {
+  border: 1px solid darkorchid;
+  margin: 0;
+}
+
+.code {
+  font-family: monospace;
+}
